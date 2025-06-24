@@ -3,10 +3,7 @@
 [Jeferson Nunes](https://www.linkedin.com/in/nunesjeferson/) | Mardem Guilherme | Fábio Oliveira | Carlos Baldisserra
 # 🚀 Agentes Autônomos com Redes Generativas
 
-Este repositório contém meus resultados, implementações e reflexões ao longo do curso **Agentes Autônomos com Redes Generativas**, promovido pela [I2A2 Academy](https://i2a2.academy) em parceria com a [Meta](https://meta.com.br/).
-
-> O curso foi oferecido gratuitamente para participantes selecionados entre mais de 10.000 inscritos e explora aplicações práticas de **IA generativa** e **agentes autônomos**.
-
+Nesse repositório compartilho nossa jornada de aprendizado (resultados, implementações e reflexões) e os projetos desenvolvidos durante o curso Agentes Autônomos com Redes Generativas, uma iniciativa da [I2A2 Academy](https://i2a2.academy) em parceria com a [Meta](https://meta.com.br/).
 ---
 
 ## 📚 Sobre o Curso
