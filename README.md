@@ -12,7 +12,7 @@ Este repositório contém meus resultados, implementações e reflexões ao long
 Este curso objetiva capacitar profissionais dos mais diversos campos de atuação, tornando-os aptos para desenvolver ambientes contendo diversos agentes inteligentes, interagindo entre si e executam processos de negócios com a mínima intervenção humana.
 
 ### 📖 Programa do curso (Grade Curricular e Cronograma de Atividades):
-Semana 1: Visão geral do curso e Gestão de Projetos de Inteligência Artificial
+Semana 1: Visão geral do curso e Gestão de Projetos de Inteligência Artificial /n
 Semana 2: Primeiros passos – Introdução à Redes Generativas
 Semana 3: Interagindo com uma LLM
 Semana 4: Desafio 1 - Criando uma solução simples utilizando uma LLM
