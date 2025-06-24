@@ -1,5 +1,6 @@
-# I2a2-ai
+# 🍁 I2A2-ai 🍁
 #Grupo CONNOR
+[Jeferson Nunes](https://www.linkedin.com/in/nunesjeferson/) | Mardem Guilherme | Fábio Oliveira | Carlos Baldisserra
 # 🚀 Agentes Autônomos com Redes Generativas
 
 Este repositório contém meus resultados, implementações e reflexões ao longo do curso **Agentes Autônomos com Redes Generativas**, promovido pela [I2A2 Academy](https://i2a2.academy) em parceria com a [Meta](https://meta.com.br/).
