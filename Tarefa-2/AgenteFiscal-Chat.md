@@ -40,7 +40,7 @@ Ao final de suas atividades, vocês devem gerar um relatório descrevendo:
 Escolhemos o [n8n](https://n8n.io/), o motvo foi por se tratar de uma ferramenta lowcode/nocode. Apesar de termos um integrande com certa experiência em dados, não temos nenhum programador no grupo.
 
 ## 2.     Como a solução foi estruturada
-![image](https://github.com/user-attachments/assets/d846692e-1293-4b34-952d-1f6d343e5d30)
+![image](https://github.com/user-attachments/assets/d6c98d71-784b-4e1c-9a80-a7ee4db25f25)
 Seguimos o passo-a-passo exigido para a entrega:  
 descompactar os arquivos → selecionar o arquivo desejado → carregar os dados → fazer as queries → gerar a resposta para o usuário
 
