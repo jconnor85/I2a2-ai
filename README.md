@@ -20,7 +20,7 @@ Semana 5: “Raciocínio das LLMs” e apresentação dos temas dos projetos do 
 Semana 6: Diretrizes para desenho de prompts  
 Semana 6: Aula extra: Conversa com o especialista – Tema 1  
 Semana 7: Planejamento e uso de ferramentas  
-  Semana 7: Aula extra: Conversa com o especialista – Tema 2  
+  <pre>Semana 7: Aula extra: Conversa com o especialista – Tema 2  
 Semana 8: Desafio 2 – Apresentação dos Planos de Trabalho dos Grupos  
 Semana 9: Python – Apresentação Geral  
 Semana 10: Infraestrutura para Agentes Inteligentes  
