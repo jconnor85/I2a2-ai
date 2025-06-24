@@ -1,5 +1,5 @@
 # 🍁 I2A2-ai 🍁
-#Grupo CONNOR
+#Grupo CONNOR  
 [Jeferson Nunes](https://www.linkedin.com/in/nunesjeferson/) | Mardem Guilherme | Fábio Oliveira | Carlos Baldisserra
 # 🚀 Agentes Autônomos com Redes Generativas
 
