@@ -4,6 +4,7 @@
 # 🚀 Agentes Autônomos com Redes Generativas
 
 Nesse repositório compartilho nossa jornada de aprendizado (resultados, implementações e reflexões) e os projetos desenvolvidos durante o curso Agentes Autônomos com Redes Generativas, uma iniciativa da [I2A2 Academy](https://i2a2.academy) em parceria com a [Meta](https://meta.com.br/).
+
 ---
 
 ## 📚 Sobre o Curso
