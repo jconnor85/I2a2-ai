@@ -12,6 +12,7 @@ Este repositório contém meus resultados, implementações e reflexões ao long
 Este curso objetiva capacitar profissionais dos mais diversos campos de atuação, tornando-os aptos para desenvolver ambientes contendo diversos agentes inteligentes, interagindo entre si e executam processos de negócios com a mínima intervenção humana.
 
 ### 📖 Programa do curso (Grade Curricular e Cronograma de Atividades):
+<pre>
 Semana 1: Visão geral do curso e Gestão de Projetos de Inteligência Artificial  
 Semana 2: Primeiros passos – Introdução à Redes Generativas  
 Semana 3: Interagindo com uma LLM  
@@ -20,7 +21,7 @@ Semana 5: “Raciocínio das LLMs” e apresentação dos temas dos projetos do 
 Semana 6: Diretrizes para desenho de prompts  
 Semana 6: Aula extra: Conversa com o especialista – Tema 1  
 Semana 7: Planejamento e uso de ferramentas  
-  <pre>Semana 7: Aula extra: Conversa com o especialista – Tema 2  
+  Semana 7: Aula extra: Conversa com o especialista – Tema 2  
 Semana 8: Desafio 2 – Apresentação dos Planos de Trabalho dos Grupos  
 Semana 9: Python – Apresentação Geral  
 Semana 10: Infraestrutura para Agentes Inteligentes  
@@ -41,6 +42,7 @@ Semana 25 e 26: Avaliação interna dos projetos apresentados
 Semana 27: Divulgação do Score Final dos Grupos  
 Semana 28: Pesquisa  
 Semana 29: Envio dos certificados  
+</pre>
 
 ### 📝 Avaliação de Desempenho
 O curso não utiliza o conceito clássico de provas, mas pelo menos mensalmente serão propostos desafios com entrega obrigatória de caráter eliminatório. Alunos que não entregarem seus trabalhos até o prazo limite indicado, ou que não atinjam o nível mínimo de qualidade exigido, serão automaticamente eliminados do programa.
