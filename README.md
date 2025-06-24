@@ -9,3 +9,4 @@ Este repositório contém meus resultados, implementações e reflexões ao long
 ---
 
 ## 📚 Sobre o Curso
+Este curso objetiva capacitar profissionais dos mais diversos campos de atuação, tornando-os aptos para desenvolver ambientes contendo diversos agentes inteligentes, interagindo entre si e executam processos de negócios com a mínima intervenção humana.
