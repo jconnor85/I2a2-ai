@@ -10,7 +10,7 @@
 - Semana 7: Planejamento e uso de ferramentas  
   - Aula extra: Conversa com o especialista – Tema 2  
 - Semana 8: Desafio 2 – Apresentação dos Planos de Trabalho dos Grupos  
-  - Desafio (Agente CSV) - [Agente Fiscal](https://github.com/jconnor85/I2a2-ai/tree/main/Tarefa-2)  
+  - Desafio (Agente CSV) - [Agente Fiscal](desafios/desafio-2/AnalisesFiscais.md) 
 - Semana 9: Python – Apresentação Geral  
 - Semana 10: Infraestrutura para Agentes Inteligentes  
 - Semana 11: RAG (Retrieval-augmented generation)  
