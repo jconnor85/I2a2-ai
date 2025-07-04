@@ -1,8 +1,9 @@
 # 🍁 I2A2-ai 🍁
-#Grupo CONNOR  
+
+### 👥 Equipe
 [Jeferson Nunes](https://www.linkedin.com/in/nunesjeferson/) | Mardem Guilherme | Fábio Oliveira | Carlos Baldisserra
 
-# 🔍 [AgenteFiscal Chat](https://johnconnor.app.n8n.cloud/webhook/b46b73d7-b028-4f31-83de-ff97d29fdbe8/chat)
+# 🔍 [AgenteFiscal Chat](https://n8n.connorai.space/webhook/b46b73d7-b028-4f31-83de-ff97d29fdbe8/chat)
 
 ## Objetivo da atividade  
 A atividade tem por objetivo criar um ou mais agentes que tornem possível a um usuário realizar perguntas sobre os arquivos CSV disponibilizados.  
@@ -94,4 +95,5 @@ Este item representa 3,31% do valor total da nota fiscal.
 Explicação: Para chegar a este resultado, primeiramente identifiquei a nota fiscal com o maior número de itens distintos, contando os itens únicos na tabela `ai_table_itens` agrupados pelo número da nota fiscal. Em seguida, filtrei a tabela `ai_table_itens` para encontrar o item de maior valor total dentro dessa nota. Por fim, calculei a porcentagem que este item representa no valor total da nota, dividindo o valor do item pelo valor total da nota fiscal (obtido da tabela `ai_table_cabecalho`) e multiplicando por 100.
 
 ## 4.     Link para acessar o agente.
-[AgenteFiscal-Chat](https://n8n.connorai.space/webhook/b46b73d7-b028-4f31-83de-ff97d29fdbe8/chat)
+🤖 [AgenteFiscal-Chat](https://n8n.connorai.space/webhook/b46b73d7-b028-4f31-83de-ff97d29fdbe8/chat)  
+⚠️ Solicite a senha de teste para usar o chat.
