@@ -71,11 +71,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ![Stars](https://img.shields.io/github/stars/jconnor85/I2a2-ai?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/jconnor85/I2a2-ai?style=for-the-badge)
 
-<!-- Tecnologias -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
-![LLM](https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 <!-- Atividade -->
 ![Commits](https://img.shields.io/github/commit-activity/m/jconnor85/I2a2-ai?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/jconnor85/I2a2-ai?style=for-the-badge)
