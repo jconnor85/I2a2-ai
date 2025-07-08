@@ -6,7 +6,7 @@
 # 🔍 [AgenteFiscal Chat](https://n8n.connorai.space/webhook/b46b73d7-b028-4f31-83de-ff97d29fdbe8/chat)
 
 ## Objetivo da atividade  
-A atividade tem por objetivo criar um ou mais agentes que tornem possível a um usuário realizar perguntas sobre os arquivos CSV disponibilizados.  
+A atividade tem por objetivo criar um ou mais agentes que tornem possível a um usuário realizar perguntas sobre os arquivos CSV disponibilizados. Na ocasião foram disponibilizadas notas fiscais do TCU de janeiro de 2024.  
 Por exemplo: Qual é o fornecedor que teve maior montante recebido? Qual item teve maior volume entregue (em quantidade)? E assim por diante.  
 
 ## Recusos
