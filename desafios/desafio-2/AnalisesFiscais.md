@@ -96,5 +96,5 @@ Explicação: Para chegar a este resultado, primeiramente identifiquei a nota fi
 
 ## 4.     Link para acessar o agente.
 🤖 [AgenteFiscal-Chat](https://n8n.connorai.space/webhook/b46b73d7-b028-4f31-83de-ff97d29fdbe8/chat)  
-⚠️ Abra o link em janela anônima para evitar o bug "Authorization data is wrong!"
+⚠️ Abra o link em janela anônima para evitar o bug "Authorization data is wrong!"  
 ⚠️ Solicite a senha de teste para usar o chat.
