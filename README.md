@@ -23,10 +23,10 @@ Este curso objetiva capacitar profissionais dos mais diversos campos de atuaçã
 
 - [x] **Desafio 1** - Solução simples com LLM
 - [x] **Desafio 2** - [AgenteFiscal Chat (Análise de CSV)](https://github.com/jconnor85/I2a2-ai/blob/main/desafios/desafio-2/AnalisesFiscais.md) + Apresentação dos Planos de Trabalho dos Grupos
-- [ ] **Desafio 3** - Primeira apresentação de resultados
-- [ ] **Desafio 4** - Segunda apresentação de resultados
-- [ ] **Desafio 5** - Terceira apresentação de resultados
-- [ ] **Desafio 6** - Apresentação final
+- [x] **Desafio 3** - Primeira apresentação de resultados
+- [x] **Desafio 4** - Segunda apresentação de resultados
+- [x] **Desafio 5** - Terceira apresentação de resultados
+- [x] **Desafio 6** - Apresentação final
 
 ### 📂 Estrutura do Repositório
 
